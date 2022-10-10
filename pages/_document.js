@@ -14,7 +14,7 @@ export default function Document() {
         <meta name="title" content="Dzign Store " key="title" />
         <meta name="description" content="Advertising Agency " />
         <meta property="og:title" content="Dzign Store | Formulair" />
-        <meta property="og:image" content="https://ibb.co/DfC4yBD" />
+        <meta property="og:image" content="https://i.ibb.co/23tqQz7/preview.png" />
         <meta
           property="og:description"
           content="Formulair built with Next.js and Tailwindcss. Take a look!"
