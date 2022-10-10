@@ -1,9 +1,7 @@
 import React from "react";
 import { FormEvent, useState } from "react";
 import moment from "moment";
-import { BsCalendar2Date } from "react-icons/bs";
-import Image from "next/image";
-import logoblack from '../public/logoblack.png'
+
 
 
 const Formulair = ({form}) => {
@@ -210,7 +208,7 @@ const Formulair = ({form}) => {
               className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
               value={job2}
               onChange={(e) => setJob2(e.target.value)}
-              type="tel"
+              type="text"
               name="other"
               id="other"
               placeholder="Ton réponse"
