@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import preview from "../public/preview.png";
 
 export default function Document() {
   return (
@@ -15,7 +14,7 @@ export default function Document() {
         <meta name="title" content="Dzign Store " key="title" />
         <meta name="description" content="Advertising Agency " />
         <meta property="og:title" content="Dzign Store | Formulair" />
-        <meta property="og:image" content={preview} />
+        <meta property="og:image" content="https://drive.google.com/file/d/1ED4qUGdXM-8HENCFf3UxWaQKAG7WFHSS" />
         <meta
           property="og:description"
           content="Formulair built with Next.js and Tailwindcss. Take a look!"
