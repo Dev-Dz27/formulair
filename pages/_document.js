@@ -17,7 +17,7 @@ export default function Document() {
         <meta itemprop="image" content="https://i.ibb.co/23tqQz7/preview.png"/>
         <meta
           property="og:description"
-          content="Formulair built with Next.js and Tailwindcss. Take a look!"
+          content="Formulair de Suture built with Next.js and Tailwindcss. Take a look!"
         />
         <meta
           property="og:url"
